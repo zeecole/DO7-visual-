@@ -2,7 +2,7 @@
 
 > **Visuals That Drive Attention**
 
-A single-page portfolio website for DO7 Visual, a YouTube content creation service specializing in thumbnails, scripts, video editing, SEO, and AI-powered content workflows.
+A single-page portfolio website for DO7 Visual [DOUBLE O7], a YouTube content creation service specializing in thumbnails, scripts, video editing, SEO, and AI-powered content workflows.
 
 ---
 
@@ -83,4 +83,4 @@ README.md                   # This file
 
 ---
 
-Â© 2025 DO7 Visual. All rights reserved.
+Â© 2026 DO7 Visual. All rights reserved.
