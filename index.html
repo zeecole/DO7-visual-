@@ -6,6 +6,10 @@
 <title>DO7 Visual — Visuals That Drive Attention</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+<script type="text/javascript">
+  emailjs.init("DOgV59IYNyc6hqRI2");
+</script>
 <style>
   :root {
     --black: #060608;
@@ -1193,7 +1197,7 @@
         <div class="contact-form-title">Send a Message</div>
         <div class="form-group">
           <label>Your Name</label>
-          <input type="text" id="from_name" placeholder="Isaac Doe">
+          <input type="text" id="from_name" placeholder="John Doe">
         </div>
         <div class="form-group">
           <label>Email Address</label>
@@ -1254,7 +1258,7 @@
     btn.textContent = 'Sending...';
     btn.disabled = true;
 
-    emailjs.send(isaacben484@gmail.com, template_8u3iyno, {
+    emailjs.send("isaacben484@gmail.com", "template_8u3iyno", {
       from_name: name,
       reply_to: email,
       service: service || 'Not specified',
