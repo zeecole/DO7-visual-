@@ -8,7 +8,7 @@ A single-page portfolio website for DO7 Visual [DOUBLE O7], a YouTube content cr
 
 ## Overview
 
-DO7 Visual is a freelance content creation brand offering end-to-end YouTube growth services. This portfolio site presents the brand, showcases work, and allows potential clients to get in touch directly.
+Isaac Benjamin is a freelance content creation brand offering end-to-end YouTube growth video editor services known as DO7 Visual . This portfolio site presents the brand, showcases work, and allows potential clients to get in touch directly.
 
 ---
 
